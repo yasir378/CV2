@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(206, 45, 45, 0.041);
+    color: aqua;
+    border: black;
+}
+
+#first {
+    /*This for background color*/
+    background-color: rgb(175, 71, 71);
+    /* This for  */
+    color: rgb(0, 225, 255);
+    border: black;
+}
+
+#third {
+    color: black;
+    border: black;
+    background-color: gray;
+}
+
+#third {
+    margin: 0;
+    padding: 0;
+}
